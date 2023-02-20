@@ -8,7 +8,7 @@ App with a daily check-in/quick quiz about how you’re feeling mentally and phy
 
 ## How It's Made:
 
-**Tech used:** HTML, EJS, TailwindCSS, Javascript, Express, Node.js, MongoDB, dotenv, passport
+**Tech used:** HTML, EJS, TailwindCSS, JavaScript, Express, Node.js, MongoDB, dotenv, Passport.js
 
 Mood Journal is built with MVC architecture to enable changes to components as new features are added and to ensure the project remains maintainable as the user base grows. A key project requirement was ease of use for both mobile and desktop user experiences.
 
